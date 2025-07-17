@@ -1,0 +1,46 @@
+E:\COFECO\SagaECO\Bin\SagaValidation.exe.config
+E:\COFECO\SagaECO\SagaValidation\obj\Debug\SagaValidation.csprojResolveAssemblyReference.cache
+F:\COFECO\SagaECO\SagaValidation\obj\Debug\SagaValidation.csprojResolveAssemblyReference.cache
+F:\COFECO\SagaECO\Bin\SagaValidation.exe.config
+F:\COFECO\SagaECO\Bin\SagaValidation.exe
+F:\COFECO\SagaECO\Bin\SagaValidation.pdb
+F:\COFECO\SagaECO\SagaValidation\obj\Debug\SagaValidation.exe
+F:\COFECO\SagaECO\SagaValidation\obj\Debug\SagaValidation.pdb
+F:\ECOAceProject\SagaECONewClient\SagaValidation\obj\Debug\SagaValidation.exe
+F:\ECOAceProject\SagaECONewClient\SagaValidation\obj\Debug\SagaValidation.pdb
+F:\ECOAceProject\SagaECONewClient\Bin\SagaValidation.exe.config
+F:\ECOAceProject\SagaECONewClient\Bin\SagaValidation.exe
+F:\ECOAceProject\SagaECONewClient\Bin\SagaValidation.pdb
+F:\ECOAceProject\SagaECONewClient\SagaValidation\obj\Debug\SagaValidation.csprojResolveAssemblyReference.cache
+D:\PlutoProject\yuanam\Bin\SagaValidation.exe.config
+D:\PlutoProject\yuanam\Bin\SagaValidation.exe
+D:\PlutoProject\yuanam\Bin\SagaValidation.pdb
+D:\PlutoProject\yuanam\SagaValidation\obj\Debug\SagaValidation.csprojAssemblyReference.cache
+D:\PlutoProject\yuanam\SagaValidation\obj\Debug\SagaValidation.csproj.CoreCompileInputs.cache
+D:\PlutoProject\yuanam\SagaValidation\obj\Debug\SagaValidation.csproj.CopyComplete
+D:\PlutoProject\yuanam\SagaValidation\obj\Debug\SagaValidation.exe
+D:\PlutoProject\yuanam\SagaValidation\obj\Debug\SagaValidation.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaValidation.exe.config
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaValidation.exe
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaValidation.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaValidation\obj\Debug\SagaValidation.csproj.AssemblyReference.cache
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaValidation\obj\Debug\SagaValidation.csproj.CoreCompileInputs.cache
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaValidation\obj\Debug\SagaValidation.csproj.CopyComplete
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaValidation\obj\Debug\SagaValidation.exe
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaValidation\obj\Debug\SagaValidation.pdb
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaValidation.exe.config
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaValidation.exe
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaValidation.pdb
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaValidation.csproj.AssemblyReference.cache
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaValidation.csproj.CoreCompileInputs.cache
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaValidation.csproj.CopyComplete
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaValidation.exe
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaValidation.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaValidation.exe.config
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaValidation.exe
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaValidation.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaValidation.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaValidation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaVali.77A5012D.Up2Date
+C:\Users\user\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaValidation.exe
+C:\Users\user\Desktop\ECOKEY2 Server\SagaValidation\obj\Debug\SagaValidation.pdb

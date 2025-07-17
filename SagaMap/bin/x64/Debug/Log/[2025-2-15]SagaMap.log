@@ -1,0 +1,54 @@
+2025/2/15 下午 08:23:46|[Error]找不到路徑 'C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\bin\x64\Debug\Config\SagaMap.xml' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   於 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   於 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   於 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   於 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   於 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   於 System.Xml.XmlTextReaderImpl.OpenUrl()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   於 System.Xml.XmlDocument.Load(XmlReader reader)
+   於 System.Xml.XmlDocument.Load(String filename)
+   於 SagaMap.Configuration.InitXML(String path) 於 C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\Configuration\Configuration.cs: 行 394
+2025/2/15 下午 08:23:46|[Error]Fatal: An unhandled exception is thrown, terminating...
+2025/2/15 下午 08:23:46|[Error]Error Message:System.ArgumentNullException: 值不能為 null。
+參數名稱: value
+   於 System.Enum.EnumResult.SetFailure(ParseFailureKind failure, String failureParameter)
+   於 System.Enum.TryParseEnum(Type enumType, String value, Boolean ignoreCase, EnumResult& parseResult)
+   於 System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)
+   於 SagaMap.MapServer.Main(String[] args) 於 C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\MapServer.cs: 行 205
+2025/2/15 下午 08:23:46|[Error]Call Stack:   於 System.Enum.EnumResult.SetFailure(ParseFailureKind failure, String failureParameter)
+   於 System.Enum.TryParseEnum(Type enumType, String value, Boolean ignoreCase, EnumResult& parseResult)
+   於 System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)
+   於 SagaMap.MapServer.Main(String[] args) 於 C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\MapServer.cs: 行 205
+2025/2/15 下午 08:23:46|[Error]Trying to save all player's data
+2025/2/15 下午 09:11:41|[Error]找不到路徑 'C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\bin\x64\Debug\Config\SagaMap.xml' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   於 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   於 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   於 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   於 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   於 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   於 System.Xml.XmlTextReaderImpl.OpenUrl()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   於 System.Xml.XmlDocument.Load(XmlReader reader)
+   於 System.Xml.XmlDocument.Load(String filename)
+   於 SagaMap.Configuration.InitXML(String path) 於 C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\Configuration\Configuration.cs: 行 394
+2025/2/15 下午 09:11:41|[Error]Fatal: An unhandled exception is thrown, terminating...
+2025/2/15 下午 09:11:41|[Error]Error Message:System.ArgumentNullException: 值不能為 null。
+參數名稱: value
+   於 System.Enum.EnumResult.SetFailure(ParseFailureKind failure, String failureParameter)
+   於 System.Enum.TryParseEnum(Type enumType, String value, Boolean ignoreCase, EnumResult& parseResult)
+   於 System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)
+   於 SagaMap.MapServer.Main(String[] args) 於 C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\MapServer.cs: 行 205
+2025/2/15 下午 09:11:41|[Error]Call Stack:   於 System.Enum.EnumResult.SetFailure(ParseFailureKind failure, String failureParameter)
+   於 System.Enum.TryParseEnum(Type enumType, String value, Boolean ignoreCase, EnumResult& parseResult)
+   於 System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)
+   於 SagaMap.MapServer.Main(String[] args) 於 C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\MapServer.cs: 行 205
+2025/2/15 下午 09:11:41|[Error]Trying to save all player's data

@@ -1,0 +1,52 @@
+F:\COFECO\SagaECO\SagaLogin\obj\Debug\SagaLogin.csprojResolveAssemblyReference.cache
+F:\COFECO\SagaECO\Bin\SagaLogin.exe.config
+F:\COFECO\SagaECO\Bin\SagaLogin.exe
+F:\COFECO\SagaECO\Bin\SagaLogin.pdb
+F:\COFECO\SagaECO\SagaLogin\obj\Debug\SagaLogin.exe
+F:\COFECO\SagaECO\SagaLogin\obj\Debug\SagaLogin.pdb
+F:\ECOAceProject\SagaECONewClient\SagaLogin\obj\Debug\SagaLogin.exe
+F:\ECOAceProject\SagaECONewClient\SagaLogin\obj\Debug\SagaLogin.pdb
+F:\ECOAceProject\SagaECONewClient\Bin\SagaLogin.exe.config
+F:\ECOAceProject\SagaECONewClient\Bin\SagaLogin.exe
+F:\ECOAceProject\SagaECONewClient\Bin\SagaLogin.pdb
+F:\ECOAceProject\SagaECONewClient\SagaLogin\obj\Debug\SagaLogin.csprojResolveAssemblyReference.cache
+D:\PlutoProject\yuanam\Bin\SagaLogin.exe.config
+D:\PlutoProject\yuanam\Bin\SagaLogin.exe
+D:\PlutoProject\yuanam\Bin\SagaLogin.pdb
+D:\PlutoProject\yuanam\SagaLogin\obj\Debug\SagaLogin.csprojAssemblyReference.cache
+D:\PlutoProject\yuanam\SagaLogin\obj\Debug\SagaLogin.csproj.CoreCompileInputs.cache
+D:\PlutoProject\yuanam\SagaLogin\obj\Debug\SagaLogin.csproj.CopyComplete
+D:\PlutoProject\yuanam\SagaLogin\obj\Debug\SagaLogin.exe
+D:\PlutoProject\yuanam\SagaLogin\obj\Debug\SagaLogin.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaLogin.exe.config
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaLogin.exe
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaLogin.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLogin\obj\Debug\SagaLogin.csproj.AssemblyReference.cache
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLogin\obj\Debug\SagaLogin.csproj.CoreCompileInputs.cache
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLogin\obj\Debug\SagaLogin.csproj.CopyComplete
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLogin\obj\Debug\SagaLogin.exe
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLogin\obj\Debug\SagaLogin.pdb
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaLogin.exe.config
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaLogin.exe
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaLogin.pdb
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.csproj.AssemblyReference.cache
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.csproj.CoreCompileInputs.cache
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.csproj.CopyComplete
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.exe
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaLogin.exe.config
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaLogin.exe
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaLogin.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.csproj.Up2Date
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.exe
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLogin\obj\Debug\SagaLogin.pdb
+C:\Users\user\Desktop\ECOKEY2 Server - AA\Bin\SagaLogin.exe.config
+C:\Users\user\Desktop\ECOKEY2 Server - AA\Bin\SagaLogin.exe
+C:\Users\user\Desktop\ECOKEY2 Server - AA\Bin\SagaLogin.pdb
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaLogin\obj\Debug\SagaLogin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaLogin\obj\Debug\SagaLogin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaLogin\obj\Debug\SagaLogin.csproj.Up2Date
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaLogin\obj\Debug\SagaLogin.exe
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaLogin\obj\Debug\SagaLogin.pdb

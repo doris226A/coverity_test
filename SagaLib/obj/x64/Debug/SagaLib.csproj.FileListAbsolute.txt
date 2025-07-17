@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\bin\x64\Debug\SagaLib.dll
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\bin\x64\Debug\SagaLib.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\bin\x64\Debug\SagaLib.XML
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\bin\x64\Debug\BigInteger.dll
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\bin\x64\Debug\MySql.Data.dll
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\bin\x64\Debug\NLog.dll
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\x64\Debug\SagaLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\x64\Debug\SagaLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\x64\Debug\SagaLib.csproj.Up2Date
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\x64\Debug\SagaLib.dll
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\x64\Debug\SagaLib.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaLib.dll
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaLib.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaLib.XML

@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using SagaDB.Actor;
+using SagaMap.Skill.Additions.Global;
+namespace SagaMap.Skill.SkillDefinations.Wizard
+{
+    /// <summary>
+    /// エナジーブラスト
+    /// </summary>
+    public class BAEnergyBlast : ISkill
+    {
+        #region ISkill Members
+        public int TryCast(ActorPC pc, Actor dActor, SkillArg args)
+        {
+            return 0;
+        }
+
+        public void Proc(Actor sActor, Actor dActor, SkillArg args, byte level)
+        {
+            float factor = 2.6f;
+            List<Actor> actors = Manager.MapManager.Instance.GetMap(dActor.MapID).GetActorsArea(dActor, 100, true);
+            List<Actor> affected = new List<Actor>();
+            foreach (Actor i in actors)
+            {
+                if (SkillHandler.Instance.CheckValidAttackTarget(sActor, i))
+                    affected.Add(i);
+            }
+            SkillHandler.Instance.MagicAttack(sActor, affected, args, SagaLib.Elements.Neutral, factor / affected.Count);
+        }
+
+        #endregion
+    }
+}

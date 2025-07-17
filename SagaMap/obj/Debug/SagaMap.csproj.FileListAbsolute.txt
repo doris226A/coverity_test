@@ -1,0 +1,66 @@
+F:\COFECO\SagaECO\SagaMap\obj\Debug\SagaMap.csprojResolveAssemblyReference.cache
+F:\COFECO\SagaECO\Bin\SagaMap.exe.config
+F:\COFECO\SagaECO\Bin\SagaMap.exe
+F:\COFECO\SagaECO\Bin\SagaMap.pdb
+F:\COFECO\SagaECO\Bin\SagaMap.XML
+F:\COFECO\SagaECO\SagaMap\obj\Debug\SagaMap.exe
+F:\COFECO\SagaECO\SagaMap\obj\Debug\SagaMap.pdb
+F:\ECOAceProject\SagaECONewClient\SagaMap\obj\Debug\SagaMap.exe
+F:\ECOAceProject\SagaECONewClient\SagaMap\obj\Debug\SagaMap.pdb
+F:\ECOAceProject\SagaECONewClient\Bin\SagaMap.exe.config
+F:\ECOAceProject\SagaECONewClient\Bin\SagaMap.exe
+F:\ECOAceProject\SagaECONewClient\Bin\SagaMap.pdb
+F:\ECOAceProject\SagaECONewClient\Bin\SagaMap.XML
+F:\ECOAceProject\SagaECONewClient\SagaMap\obj\Debug\SagaMap.csprojResolveAssemblyReference.cache
+G:\svn\PlutoProject\SagaMap\obj\Debug\SagaMap.csprojResolveAssemblyReference.cache
+G:\svn\PlutoProject\SagaMap\obj\Debug\SagaMap.exe
+G:\svn\PlutoProject\SagaMap\obj\Debug\SagaMap.pdb
+G:\svn\PlutoProject\Bin\SagaMap.exe.config
+G:\svn\PlutoProject\Bin\SagaMap.exe
+G:\svn\PlutoProject\Bin\SagaMap.pdb
+G:\svn\PlutoProject\Bin\SagaMap.XML
+D:\PlutoProject\yuanam\Bin\SagaMap.exe.config
+D:\PlutoProject\yuanam\Bin\SagaMap.exe
+D:\PlutoProject\yuanam\Bin\SagaMap.pdb
+D:\PlutoProject\yuanam\Bin\SagaMap.XML
+D:\PlutoProject\yuanam\SagaMap\obj\Debug\SagaMap.csprojAssemblyReference.cache
+D:\PlutoProject\yuanam\SagaMap\obj\Debug\SagaMap.csproj.CoreCompileInputs.cache
+D:\PlutoProject\yuanam\SagaMap\obj\Debug\SagaMap.csproj.CopyComplete
+D:\PlutoProject\yuanam\SagaMap\obj\Debug\SagaMap.exe
+D:\PlutoProject\yuanam\SagaMap\obj\Debug\SagaMap.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaMap\obj\Debug\SagaMap.csproj.AssemblyReference.cache
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaMap\obj\Debug\SagaMap.csproj.CoreCompileInputs.cache
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaMap\obj\Debug\SagaMap.exe
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaMap\obj\Debug\SagaMap.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaMap.exe.config
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaMap.exe
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaMap.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaMap.XML
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaMap\obj\Debug\SagaMap.csproj.CopyComplete
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaMap.exe.config
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaMap.exe
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaMap.pdb
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaMap.XML
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.csproj.CoreCompileInputs.cache
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.csproj.CopyComplete
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.exe
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.pdb
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaMap.exe.config
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaMap.exe
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaMap.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaMap.XML
+C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.csproj.Up2Date
+C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.exe
+C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\obj\Debug\SagaMap.pdb
+C:\Users\user\Desktop\ECOKEY2 Server - AA\Bin\SagaMap.exe.config
+C:\Users\user\Desktop\ECOKEY2 Server - AA\Bin\SagaMap.exe
+C:\Users\user\Desktop\ECOKEY2 Server - AA\Bin\SagaMap.pdb
+C:\Users\user\Desktop\ECOKEY2 Server - AA\Bin\SagaMap.XML
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaMap\obj\Debug\SagaMap.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaMap\obj\Debug\SagaMap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaMap\obj\Debug\SagaMap.csproj.Up2Date
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaMap\obj\Debug\SagaMap.exe
+C:\Users\user\Desktop\ECOKEY2 Server - AA\SagaMap\obj\Debug\SagaMap.pdb

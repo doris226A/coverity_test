@@ -1,0 +1,15 @@
+2025/2/15 下午 09:11:41|[Error]找不到路徑 'C:\Users\user\Desktop\ECOKEY2 Server\SagaMap\bin\x64\Debug\Config\SagaLogin.xml' 的一部分。
+   於 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   於 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   於 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   於 System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   於 System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   於 System.Xml.XmlTextReaderImpl.OpenUrlDelegate(Object xmlResolver)
+   於 System.Runtime.CompilerServices.RuntimeHelpers.ExecuteCodeWithGuaranteedCleanup(TryCode code, CleanupCode backoutCode, Object userData)
+   於 System.Threading.CompressedStack.Run(CompressedStack compressedStack, ContextCallback callback, Object state)
+   於 System.Xml.XmlTextReaderImpl.OpenUrl()
+   於 System.Xml.XmlTextReaderImpl.Read()
+   於 System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   於 System.Xml.XmlDocument.Load(XmlReader reader)
+   於 System.Xml.XmlDocument.Load(String filename)
+   於 SagaLogin.Configuration.Initialization(String path) 於 C:\Users\user\Desktop\ECOKEY2 Server\SagaLogin\Configuration\Configuration.cs: 行 75

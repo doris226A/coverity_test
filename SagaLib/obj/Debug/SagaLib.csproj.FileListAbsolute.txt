@@ -1,0 +1,43 @@
+E:\COFECO\SagaECO\SagaLib\obj\Debug\SagaLib.csprojResolveAssemblyReference.cache
+F:\COFECO\SagaECO\Bin\SagaLib.dll
+F:\COFECO\SagaECO\Bin\SagaLib.pdb
+F:\COFECO\SagaECO\Bin\SagaLib.XML
+F:\COFECO\SagaECO\SagaLib\obj\Debug\SagaLib.dll
+F:\COFECO\SagaECO\SagaLib\obj\Debug\SagaLib.pdb
+F:\ECOAceProject\SagaECONewClient\SagaLib\obj\Debug\SagaLib.dll
+F:\ECOAceProject\SagaECONewClient\SagaLib\obj\Debug\SagaLib.pdb
+F:\ECOAceProject\SagaECONewClient\Bin\SagaLib.dll
+F:\ECOAceProject\SagaECONewClient\Bin\SagaLib.pdb
+F:\ECOAceProject\SagaECONewClient\Bin\SagaLib.XML
+F:\ECOAceProject\SagaECONewClient\SagaLib\obj\Debug\SagaLib.csprojResolveAssemblyReference.cache
+D:\PlutoProject\yuanam\Bin\SagaLib.dll
+D:\PlutoProject\yuanam\Bin\SagaLib.pdb
+D:\PlutoProject\yuanam\Bin\SagaLib.XML
+D:\PlutoProject\yuanam\SagaLib\obj\Debug\SagaLib.csproj.CoreCompileInputs.cache
+D:\PlutoProject\yuanam\SagaLib\obj\Debug\SagaLib.csproj.CopyComplete
+D:\PlutoProject\yuanam\SagaLib\obj\Debug\SagaLib.dll
+D:\PlutoProject\yuanam\SagaLib\obj\Debug\SagaLib.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaLib.dll
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaLib.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\Bin\SagaLib.XML
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLib\obj\Debug\SagaLib.csproj.CoreCompileInputs.cache
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLib\obj\Debug\SagaLib.csproj.CopyComplete
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLib\obj\Debug\SagaLib.dll
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLib\obj\Debug\SagaLib.pdb
+C:\Users\wawa6\Desktop\新增資料夾 (15)\SagaLib\obj\Debug\SagaLib.csproj.AssemblyReference.cache
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaLib.dll
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaLib.pdb
+C:\Users\wawa6\Desktop\ECOKEY2 Server\Bin\SagaLib.XML
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.csproj.CoreCompileInputs.cache
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.csproj.CopyComplete
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.dll
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.pdb
+C:\Users\wawa6\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaLib.dll
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaLib.pdb
+C:\Users\user\Desktop\ECOKEY2 Server\Bin\SagaLib.XML
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.csproj.Up2Date
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.dll
+C:\Users\user\Desktop\ECOKEY2 Server\SagaLib\obj\Debug\SagaLib.pdb
